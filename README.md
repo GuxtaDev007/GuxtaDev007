@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3057,100:00F5FF&height=220&section=header&text=SEU_NOME&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=System%20Architect%20%7C%7C%20AI%20Enthusiast%20%7C%7C%20Full%20Stack%20Dev&descAlignY=58&descSize=18&descColor=8892b0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3057,100:00F5FF&height=220&section=header&text=Gusta&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=System%20Architect%20%7C%7C%20AI%20Enthusiast%20%7C%7C%20Full%20Stack%20Dev&descAlignY=58&descSize=18&descColor=8892b0" width="100%"/>
 
 <a href="https://github.com/GuxtaDev007">
   <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&height=50&lines=Ol%C3%A1%2C+eu+sou+o+SEU_NOME_%3E_;Desenvolvedor%28a%29+Full+Stack;Entusiasta+de+Intelig%C3%AAncia+Artificial;Explorando+o+universo+Cyberpunk;Bem-vindo%28a%29+ao+meu+terminal_" alt="Typing SVG" />
