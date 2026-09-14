@@ -182,7 +182,7 @@ SEU_NOME@sistema:~$ echo $STATUS
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=GuxtaDev007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&ring_color=00F5FF"/>
+<img src="https://github-stats-extended.vercel.app/api?username=GuxtaDev007&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github"/>
 </td>
 <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuxtaDev007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9"/>
